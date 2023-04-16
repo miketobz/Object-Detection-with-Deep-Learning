@@ -1,0 +1,188 @@
+C:\kandikits\realtime-object-detection already exists 
+START TIME : 23:51:58.80 
+Microsoft Visual C++ Redistributable already downloaded 
+Installing Microsoft Visual C++ Redistributable ... 
+Microsoft Visual C++ Redistributable has been installed 
+The detected version of python is 3.10 
+A valid python is detected at system level 
+Installing dependent modules ... 
+
+BITSADMIN version 3.0
+BITS administration utility.
+(C) Copyright Microsoft Corp.
+
+Transfer complete.
+C:\kandikits\python\3.9.8;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\PyCharm Community Edition 2022.2.1\bin; 
+Requirement already satisfied: virtualenv in c:\kandikits\python\3.9.8\lib\site-packages (20.21.0)
+Requirement already satisfied: filelock<4,>=3.4.1 in c:\kandikits\python\3.9.8\lib\site-packages (from virtualenv) (3.10.7)
+Requirement already satisfied: platformdirs<4,>=2.4 in c:\kandikits\python\3.9.8\lib\site-packages (from virtualenv) (3.2.0)
+Requirement already satisfied: distlib<1,>=0.3.6 in c:\kandikits\python\3.9.8\lib\site-packages (from virtualenv) (0.3.6)
+created virtual environment CPython3.9.8.final.0-64 in 62670ms
+  creator CPython3Windows(dest=C:\kandikits\realtime-object-detection\object-detection-env, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\User\AppData\Local\pypa\virtualenv)
+    added seed packages: GitPython==3.1.31, Jinja2==3.1.2, MarkupSafe==2.1.2, Pillow==8.3.1, PyYAML==5.4.1, Pygments==2.15.0, QtPy==2.3.1, Send2Trash==1.8.0, anyio==3.6.2, argon2_cffi==21.3.0, argon2_cffi_bindings==21.2.0, arrow==1.2.3, asttokens==2.2.1, attrs==22.2.0, backcall==0.2.0, beautifulsoup4==4.12.2, bleach==6.0.0, certifi==2022.12.7, cffi==1.15.1, charset_normalizer==2.0.12, colorama==0.4.6, comm==0.1.3, cycler==0.11.0, debugpy==1.6.7, decorator==5.1.1, defusedxml==0.7.1, executing==1.2.0, fastjsonschema==2.16.3, fqdn==1.5.1, gitdb==4.0.10, idna==3.4, importlib_metadata==6.3.0, ipykernel==6.22.0, ipython==8.12.0, ipython_genutils==0.2.0, ipywidgets==8.0.6, isoduration==20.11.0, jedi==0.18.2, jsonpointer==2.3, jsonschema==4.17.3, jupyter==1.0.0, jupyter_client==8.1.0, jupyter_console==6.6.3, jupyter_core==5.3.0, jupyter_events==0.6.3, jupyter_server==2.5.0, jupyter_server_terminals==0.4.4, jupyterlab_pygments==0.2.2, jupyterlab_widgets==3.0.7, kiwisolver==1.4.4, matplotlib==3.4.2, matplotlib_inline==0.1.6, mistune==2.0.5, nbclassic==0.5.5, nbclient==0.7.3, nbconvert==7.3.1, nbformat==5.8.0, nest_asyncio==1.5.6, notebook==6.5.4, notebook_shim==0.2.2, numpy==1.19.5, opencv_python==4.5.4.58, packaging==23.1, pandas==1.3.1, pandocfilters==1.5.0, parso==0.8.3, pickleshare==0.7.5, pip==23.0.1, platformdirs==3.2.0, prometheus_client==0.16.0, prompt_toolkit==3.0.38, psutil==5.9.4, pure_eval==0.2.2, pycparser==2.21, pyparsing==3.0.9, pyrsistent==0.19.3, python_dateutil==2.8.2, python_json_logger==2.0.7, pytz==2023.3, pywin32==306, pywinpty==2.0.10, pyzmq==25.0.2, qtconsole==5.4.2, requests==2.26.0, rfc3339_validator==0.1.4, rfc3986_validator==0.1.1, scipy==1.10.1, seaborn==0.11.2, setuptools==67.4.0, six==1.16.0, smmap==5.0.0, sniffio==1.3.0, soupsieve==2.4, stack_data==0.6.2, terminado==0.17.1, tinycss2==1.2.1, torch==1.8.1, torchvision==0.9.1, tornado==6.2, tqdm==4.65.0, traitlets==5.9.0, typing_extensions==4.5.0, uri_template==1.2.0, urllib3==1.26.15, wcwidth==0.2.6, webcolors==1.13, webencodings==0.5.1, websocket_client==1.5.1, wheel==0.38.4, widgetsnbextension==4.0.7, zipp==3.15.0
+  activators BashActivator,BatchActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+C:\kandikits\realtime-object-detection\object-detection-env\Scripts 
+C:\kandikits\realtime-object-detection 
+Requirement already satisfied: pip in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (23.0.1)
+Requirement already satisfied: setuptools in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (67.4.0)
+Collecting setuptools
+  Using cached setuptools-67.6.1-py3-none-any.whl (1.1 MB)
+Requirement already satisfied: wheel in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (0.38.4)
+Collecting wheel
+  Using cached wheel-0.40.0-py3-none-any.whl (64 kB)
+Installing collected packages: wheel, setuptools
+  Attempting uninstall: wheel
+    Found existing installation: wheel 0.38.4
+    Uninstalling wheel-0.38.4:
+      Successfully uninstalled wheel-0.38.4
+  Attempting uninstall: setuptools
+    Found existing installation: setuptools 67.4.0
+    Uninstalling setuptools-67.4.0:
+      Successfully uninstalled setuptools-67.4.0
+Successfully installed setuptools-67.6.1 wheel-0.40.0
+Requirement already satisfied: jupyter==1.0.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from -r requirements.txt (line 1)) (1.0.0)
+Requirement already satisfied: numpy==1.19.5 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from -r requirements.txt (line 2)) (1.19.5)
+Requirement already satisfied: pandas==1.3.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from -r requirements.txt (line 3)) (1.3.1)
+Requirement already satisfied: requests==2.26.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from -r requirements.txt (line 4)) (2.26.0)
+Requirement already satisfied: pillow==8.3.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from -r requirements.txt (line 5)) (8.3.1)
+Requirement already satisfied: opencv-python==4.5.4.58 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from -r requirements.txt (line 6)) (4.5.4.58)
+Requirement already satisfied: pyyaml==5.4.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from -r requirements.txt (line 7)) (5.4.1)
+Collecting tqdm==4.51.0
+  Downloading tqdm-4.51.0-py2.py3-none-any.whl (70 kB)
+     --------------------------------------- 71.0/71.0 kB 77.8 kB/s eta 0:00:00
+Requirement already satisfied: torch==1.8.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from -r requirements.txt (line 9)) (1.8.1)
+Requirement already satisfied: torchvision==0.9.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from -r requirements.txt (line 10)) (0.9.1)
+Requirement already satisfied: matplotlib==3.4.2 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from -r requirements.txt (line 11)) (3.4.2)
+Requirement already satisfied: seaborn==0.11.2 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from -r requirements.txt (line 12)) (0.11.2)
+Requirement already satisfied: jupyter-console in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter==1.0.0->-r requirements.txt (line 1)) (6.6.3)
+Requirement already satisfied: ipykernel in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter==1.0.0->-r requirements.txt (line 1)) (6.22.0)
+Requirement already satisfied: ipywidgets in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter==1.0.0->-r requirements.txt (line 1)) (8.0.6)
+Requirement already satisfied: notebook in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter==1.0.0->-r requirements.txt (line 1)) (6.5.4)
+Requirement already satisfied: nbconvert in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter==1.0.0->-r requirements.txt (line 1)) (7.3.1)
+Requirement already satisfied: qtconsole in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter==1.0.0->-r requirements.txt (line 1)) (5.4.2)
+Requirement already satisfied: pytz>=2017.3 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from pandas==1.3.1->-r requirements.txt (line 3)) (2023.3)
+Requirement already satisfied: python-dateutil>=2.7.3 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from pandas==1.3.1->-r requirements.txt (line 3)) (2.8.2)
+Requirement already satisfied: idna<4,>=2.5 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from requests==2.26.0->-r requirements.txt (line 4)) (3.4)
+Requirement already satisfied: certifi>=2017.4.17 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from requests==2.26.0->-r requirements.txt (line 4)) (2022.12.7)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from requests==2.26.0->-r requirements.txt (line 4)) (1.26.15)
+Requirement already satisfied: charset-normalizer~=2.0.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from requests==2.26.0->-r requirements.txt (line 4)) (2.0.12)
+Requirement already satisfied: typing-extensions in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from torch==1.8.1->-r requirements.txt (line 9)) (4.5.0)
+Requirement already satisfied: kiwisolver>=1.0.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from matplotlib==3.4.2->-r requirements.txt (line 11)) (1.4.4)
+Requirement already satisfied: pyparsing>=2.2.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from matplotlib==3.4.2->-r requirements.txt (line 11)) (3.0.9)
+Requirement already satisfied: cycler>=0.10 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from matplotlib==3.4.2->-r requirements.txt (line 11)) (0.11.0)
+Requirement already satisfied: scipy>=1.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from seaborn==0.11.2->-r requirements.txt (line 12)) (1.10.1)
+Requirement already satisfied: six>=1.5 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from python-dateutil>=2.7.3->pandas==1.3.1->-r requirements.txt (line 3)) (1.16.0)
+Requirement already satisfied: tornado>=6.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (6.2)
+Requirement already satisfied: jupyter-core!=5.0.*,>=4.12 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (5.3.0)
+Requirement already satisfied: debugpy>=1.6.5 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (1.6.7)
+Requirement already satisfied: traitlets>=5.4.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (5.9.0)
+Requirement already satisfied: psutil in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (5.9.4)
+Requirement already satisfied: jupyter-client>=6.1.12 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (8.1.0)
+Requirement already satisfied: nest-asyncio in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (1.5.6)
+Requirement already satisfied: comm>=0.1.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.1.3)
+Requirement already satisfied: matplotlib-inline>=0.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.1.6)
+Requirement already satisfied: packaging in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (23.1)
+Requirement already satisfied: ipython>=7.23.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (8.12.0)
+Requirement already satisfied: pyzmq>=20 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (25.0.2)
+Requirement already satisfied: widgetsnbextension~=4.0.7 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipywidgets->jupyter==1.0.0->-r requirements.txt (line 1)) (4.0.7)
+Requirement already satisfied: jupyterlab-widgets~=3.0.7 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipywidgets->jupyter==1.0.0->-r requirements.txt (line 1)) (3.0.7)
+Requirement already satisfied: pygments in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter-console->jupyter==1.0.0->-r requirements.txt (line 1)) (2.15.0)
+Requirement already satisfied: prompt-toolkit>=3.0.30 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter-console->jupyter==1.0.0->-r requirements.txt (line 1)) (3.0.38)
+Requirement already satisfied: nbformat>=5.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (5.8.0)
+Requirement already satisfied: defusedxml in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (0.7.1)
+Requirement already satisfied: pandocfilters>=1.4.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (1.5.0)
+Requirement already satisfied: bleach in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (6.0.0)
+Requirement already satisfied: importlib-metadata>=3.6 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (6.3.0)
+Requirement already satisfied: mistune<3,>=2.0.3 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (2.0.5)
+Requirement already satisfied: nbclient>=0.5.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (0.7.3)
+Requirement already satisfied: jupyterlab-pygments in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (0.2.2)
+Requirement already satisfied: jinja2>=3.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (3.1.2)
+Requirement already satisfied: beautifulsoup4 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (4.12.2)
+Requirement already satisfied: tinycss2 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (1.2.1)
+Requirement already satisfied: markupsafe>=2.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (2.1.2)
+Requirement already satisfied: prometheus-client in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.16.0)
+Requirement already satisfied: ipython-genutils in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.2.0)
+Requirement already satisfied: terminado>=0.8.3 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.17.1)
+Requirement already satisfied: nbclassic>=0.4.7 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.5.5)
+Requirement already satisfied: argon2-cffi in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (21.3.0)
+Requirement already satisfied: Send2Trash>=1.8.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (1.8.0)
+Requirement already satisfied: qtpy>=2.0.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from qtconsole->jupyter==1.0.0->-r requirements.txt (line 1)) (2.3.1)
+Requirement already satisfied: zipp>=0.5 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from importlib-metadata>=3.6->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (3.15.0)
+Requirement already satisfied: jedi>=0.16 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.18.2)
+Requirement already satisfied: colorama in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.4.6)
+Requirement already satisfied: decorator in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (5.1.1)
+Requirement already satisfied: pickleshare in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.7.5)
+Requirement already satisfied: stack-data in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.6.2)
+Requirement already satisfied: backcall in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.2.0)
+Requirement already satisfied: platformdirs>=2.5 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter-core!=5.0.*,>=4.12->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (3.2.0)
+Requirement already satisfied: pywin32>=300 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter-core!=5.0.*,>=4.12->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (306)
+Requirement already satisfied: jupyter-server>=1.8 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbclassic>=0.4.7->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.5.0)
+Requirement already satisfied: notebook-shim>=0.1.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbclassic>=0.4.7->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.2.2)
+Requirement already satisfied: fastjsonschema in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbformat>=5.1->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (2.16.3)
+Requirement already satisfied: jsonschema>=2.6 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from nbformat>=5.1->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (4.17.3)
+Requirement already satisfied: wcwidth in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from prompt-toolkit>=3.0.30->jupyter-console->jupyter==1.0.0->-r requirements.txt (line 1)) (0.2.6)
+Requirement already satisfied: pywinpty>=1.1.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from terminado>=0.8.3->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.0.10)
+Requirement already satisfied: argon2-cffi-bindings in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from argon2-cffi->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (21.2.0)
+Requirement already satisfied: soupsieve>1.2 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from beautifulsoup4->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (2.4)
+Requirement already satisfied: webencodings in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from bleach->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (0.5.1)
+Requirement already satisfied: parso<0.9.0,>=0.8.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jedi>=0.16->ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.8.3)
+Requirement already satisfied: attrs>=17.4.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jsonschema>=2.6->nbformat>=5.1->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (22.2.0)
+Requirement already satisfied: pyrsistent!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jsonschema>=2.6->nbformat>=5.1->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (0.19.3)
+Requirement already satisfied: anyio>=3.1.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter-server>=1.8->nbclassic>=0.4.7->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (3.6.2)
+Requirement already satisfied: jupyter-events>=0.4.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter-server>=1.8->nbclassic>=0.4.7->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.6.3)
+Requirement already satisfied: jupyter-server-terminals in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter-server>=1.8->nbclassic>=0.4.7->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.4.4)
+Requirement already satisfied: websocket-client in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter-server>=1.8->nbclassic>=0.4.7->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (1.5.1)
+Requirement already satisfied: cffi>=1.0.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from argon2-cffi-bindings->argon2-cffi->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (1.15.1)
+Requirement already satisfied: executing>=1.2.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from stack-data->ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (1.2.0)
+Requirement already satisfied: asttokens>=2.1.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from stack-data->ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (2.2.1)
+Requirement already satisfied: pure-eval in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from stack-data->ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.2.2)
+Requirement already satisfied: sniffio>=1.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from anyio>=3.1.0->jupyter-server>=1.8->nbclassic>=0.4.7->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (1.3.0)
+Requirement already satisfied: pycparser in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from cffi>=1.0.1->argon2-cffi-bindings->argon2-cffi->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.21)
+Requirement already satisfied: python-json-logger>=2.0.4 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter-events>=0.4.0->jupyter-server>=1.8->nbclassic>=0.4.7->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.0.7)
+Requirement already satisfied: rfc3339-validator in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter-events>=0.4.0->jupyter-server>=1.8->nbclassic>=0.4.7->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.1.4)
+Requirement already satisfied: rfc3986-validator>=0.1.1 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jupyter-events>=0.4.0->jupyter-server>=1.8->nbclassic>=0.4.7->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.1.1)
+Requirement already satisfied: webcolors>=1.11 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jsonschema>=2.6->nbformat>=5.1->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (1.13)
+Requirement already satisfied: jsonpointer>1.13 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jsonschema>=2.6->nbformat>=5.1->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (2.3)
+Requirement already satisfied: uri-template in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jsonschema>=2.6->nbformat>=5.1->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (1.2.0)
+Requirement already satisfied: fqdn in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jsonschema>=2.6->nbformat>=5.1->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (1.5.1)
+Requirement already satisfied: isoduration in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from jsonschema>=2.6->nbformat>=5.1->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (20.11.0)
+Requirement already satisfied: arrow>=0.15.0 in c:\kandikits\realtime-object-detection\object-detection-env\lib\site-packages (from isoduration->jsonschema>=2.6->nbformat>=5.1->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (1.2.3)
+Installing collected packages: tqdm
+  Attempting uninstall: tqdm
+    Found existing installation: tqdm 4.65.0
+    Uninstalling tqdm-4.65.0:
+      Successfully uninstalled tqdm-4.65.0
+Successfully installed tqdm-4.51.0
+realtime-object-detection.zip already available in location 
+END TIME : 23:58:38.33 
+[I 23:59:58.440 NotebookApp] Serving notebooks from local directory: C:\kandikits\realtime-object-detection\realtime-object-detection
+[I 23:59:58.440 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 23:59:58.440 NotebookApp] http://localhost:8888/?token=7ad08432e4e549c91fde6484554688d6a0a4dae40a076d4d
+[I 23:59:58.440 NotebookApp]  or http://127.0.0.1:8888/?token=7ad08432e4e549c91fde6484554688d6a0a4dae40a076d4d
+[I 23:59:58.440 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:59:58.720 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/User/AppData/Roaming/jupyter/runtime/nbserver-94468-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=7ad08432e4e549c91fde6484554688d6a0a4dae40a076d4d
+     or http://127.0.0.1:8888/?token=7ad08432e4e549c91fde6484554688d6a0a4dae40a076d4d
+0.13s - Debugger warning: The os.path.realpath.__code__.co_filename (ntpath.py)
+0.00s - is not absolute, which may make the debugger miss breakpoints.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 00:00:46.135 NotebookApp] Notebook Realtime Object Detection.ipynb is not trusted
+[I 00:00:59.452 NotebookApp] Kernel started: 9d60d4cf-4fa3-4025-b837-f8c857904466, name: python3
+0.00s - Debugger warning: The os.path.realpath.__code__.co_filename (ntpath.py)
+0.00s - is not absolute, which may make the debugger miss breakpoints.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 00:02:46.795 NotebookApp] Saving file at /Realtime Object Detection.ipynb
+[W 00:02:46.795 NotebookApp] Notebook Realtime Object Detection.ipynb is not trusted
+[I 00:04:46.849 NotebookApp] Saving file at /Realtime Object Detection.ipynb
+[ WARN:0] global D:\a\opencv-python\opencv-python\opencv\modules\videoio\src\cap_msmf.cpp (376) `anonymous-namespace'::SourceReaderCB::OnReadSample videoio(MSMF): OnReadSample() is called with error status: -2147024463
+[ WARN:0] global D:\a\opencv-python\opencv-python\opencv\modules\videoio\src\cap_msmf.cpp (388) `anonymous-namespace'::SourceReaderCB::OnReadSample videoio(MSMF): async ReadSample() call is failed with error status: -2147024463
+[ WARN:1] global D:\a\opencv-python\opencv-python\opencv\modules\videoio\src\cap_msmf.cpp (1022) CvCapture_MSMF::grabFrame videoio(MSMF): can't grab frame. Error: -2147024463
+[I 00:06:46.799 NotebookApp] Saving file at /Realtime Object Detection.ipynb
+[I 03:42:13.128 NotebookApp] Starting buffering for 9d60d4cf-4fa3-4025-b837-f8c857904466:67f59f6cf6994a2f861b6236954d3be9
+[I 03:49:06.166 NotebookApp] Restoring connection for 9d60d4cf-4fa3-4025-b837-f8c857904466:67f59f6cf6994a2f861b6236954d3be9
+[I 04:13:06.696 NotebookApp] Starting buffering for 9d60d4cf-4fa3-4025-b837-f8c857904466:67f59f6cf6994a2f861b6236954d3be9
