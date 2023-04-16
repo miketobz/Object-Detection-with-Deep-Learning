@@ -87,7 +87,7 @@ In OpenCV we need to create a VideoCapture object to capture a video. We pass ei
 
 ![Output](https://ckhconsulting.com/wp-content/uploads/2020/11/object-detection.gif)
 
-![Output](https://www.researchgate.net/publication/335826004/figure/fig2/AS:941747450441750@1601541497349/Block-diagram-of-Object-Recognition-System.png)
+![Output](https://machinelearningmastery.com/wp-content/uploads/2019/03/Comparison-Between-Single-Object-Localization-and-Object-Detection.png)
 
 ![Output](https://media.licdn.com/dms/image/C5612AQHzeMwuEygRMQ/article-cover_image-shrink_600_2000/0/1557207231718?e=2147483647&v=beta&t=bD7ZVgPzDi4geh7HyTjUNFqXZaD3F-T5UPICqVHsajE)
 ## Installation
