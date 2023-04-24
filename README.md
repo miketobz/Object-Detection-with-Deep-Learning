@@ -20,7 +20,7 @@ Moreover, object detection is expanding into a variety of sectors, with applicat
 
 Image description (Karpathy and Fei-Fei 2017; Vinyals et al. 2017; Xu et al. 2015) is a difficult and dynamic research issue that necessitates both computer vision and natural language processing approaches. Its purpose is to generate natural language descriptions of photographs on the corresponding regions automatically. Different models have been presented by researchers to learn about the correspondences between linguistic and visual data. Karpathy and Fei-Fei (2017), for example, offer a multimodal RNN architecture to align a modality learnt by CNNs over picture regions with a modality trained by bidirectional RNNs over phrases. CNNs are used to learn the representation of images in Vinyals et al. (2017), while LSTMs are used to output phrases. A direct model is constructed to optimize the probability of the text given the image. In Xu et al. (2015), CNNs are used to construct image representations, and LSTMs are used to generate captions, similar to Vinyals et al. (2017). The essential improvement is to incorporate attention-based strategies to boost model performance even further. As new algorithms are proposed, the performance of image captioning improves. Bernardi et al. (2016) provide additional information.
 
-![Output](https://www.searchenginejournal.com/wp-content/uploads/2020/07/how-to-generate-structured-data-automatically-using-computer-vision-5f06c03959da0.png)
+![Output](https://littleml.files.wordpress.com/2022/06/screen-shot-2022-06-05-at-11.41.49-am.png?w=750)
 
 
 #### References:
